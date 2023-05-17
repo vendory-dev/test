@@ -1,0 +1,17 @@
+.idea/
+*.user
+.git
+.helm
+.vscode
+bin
+docs
+etc.
+node_modules
+obj
+scripts
+test
+tools
+docker-compose.yml
+dist
+ErrorLogs
+Logs
